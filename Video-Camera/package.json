@@ -2,9 +2,9 @@
   "name": "Video-Camera",
   "version": "1.0.0",
   "scripts": {
-    "start": " node script.js"
+    "start": "node script.js"
   },
-    "dependencies": {
+  "dependencies": {
     "idb": "^6.0.2",
     "adapterjs": "^0.14.1"
   }
