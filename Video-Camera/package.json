@@ -4,11 +4,9 @@
   "scripts": {
     "start": "script.js"
   },
-  "dependencies": {
-    "express": "^4.17.1",
-    "react": "^17.0.2"
-    "idb": "^6.0.2"
-     "adapterjs": "^0.14.1"
+    "dependencies": {
+    "idb": "^6.0.2",
+    "adapterjs": "^0.14.1"
   }
 }
 
