@@ -1,0 +1,10 @@
+{
+  "name": "Video-Camera",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node your_main_file.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
